@@ -240,4 +240,14 @@ ol {
 	padding: 60px;
 }
 
+#input-submit {
+	line-height: 2em;
+	font-size: 1.5em;
+}
+
+html {
+	
+	font-family: Open Sans, Arial, Times New Roman;
+}
+
 /* ===== STATE STYLES ======= */
