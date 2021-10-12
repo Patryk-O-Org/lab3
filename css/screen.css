@@ -204,5 +204,17 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 
+#content {
+	text-align: center;
+}
+
+input {
+	width: 95%
+	box-sizing: border-box;
+	padding: 14px 14px;
+	border: none;
+	margin: 10px 1.5%;
+	background-color: #727272;
+}
 
 /* ===== STATE STYLES ======= */
