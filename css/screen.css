@@ -251,7 +251,7 @@ html {
 }
 
 /* ===== STATE STYLES ======= */
-@media only screen and (min-width: 720px) {
+@media only screen and (min-width: 992px) {
 	input {
 		width: 50%;
 	}
