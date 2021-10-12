@@ -217,4 +217,22 @@ input {
 	background-color: #727272;
 }
 
+h1 {
+	padding: 65px;
+	border-radius: 5em;
+	font-size: 2.3em;
+	line height: 1em;
+	background-color: #727272;
+}
+
+body {
+	background-color: gray;
+}
+
+p {
+	padding; 60px;
+	font-size: 2.3em;
+	line-height: 1em;
+}
+
 /* ===== STATE STYLES ======= */
