@@ -251,3 +251,20 @@ html {
 }
 
 /* ===== STATE STYLES ======= */
+@media only screen and (min-width: 720px) {
+	input {
+		width; 50%
+	}
+	
+	p {
+		font-size: 1.4em;
+	}
+	
+	label {
+		font-size: 1em;
+	}
+	
+	#input-submit {
+		font-size: 1em;
+	}
+}
