@@ -221,7 +221,7 @@ h1 {
 	padding: 65px;
 	border-radius: 5em;
 	font-size: 2.3em;
-	line height: 1em;
+	line-height: 1em;
 	background-color: #727272;
 }
 
@@ -253,7 +253,7 @@ html {
 /* ===== STATE STYLES ======= */
 @media only screen and (min-width: 720px) {
 	input {
-		width; 50%
+		width: 50%;
 	}
 	
 	p {
